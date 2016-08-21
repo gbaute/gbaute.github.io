@@ -9,8 +9,8 @@
                     <ul>
                         <li><a href="https://mx.linkedin.com/in/{{ site.linkedin }}"><i class="fa fa-linkedin"></i></a></li>
   			<li><a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter"></i></a> </li>
-                        <li><a href="https://scholar.google.ca/citations?user={{ site.google_scholar }}"><i class="fa fa-google"></i></a></li>
-			<li><a href="http://github.com/{{ site.github }}"><i class="fa fa-github"></i></a></li>
+                        <li><a href="http://github.com/{{ site.github }}"><i class="fa fa-github"></i></a></li>
+                        <li><a href="https://scholar.google.ca/citations?user={{site.google_scholar}}"><i class="fa fa-google"></i></a></li>
 		    </ul>
                 </div>
  
