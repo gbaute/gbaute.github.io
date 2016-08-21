@@ -8,14 +8,11 @@ baseurl: https://gbaute.github.io #"" # the subpath of your site, e.g. /blog
 description: Crop improvement and genomics
 
 # Social icons
-
+#facebook: username
 linkedin: greg-baute-a2b012115
 github: gbaute
 twitter_username: gregbaute
 google_scholar: m0LJafcAAAAJ
-
-
-#facebook: username
 #deviantart: username
 #codepen: username
 
